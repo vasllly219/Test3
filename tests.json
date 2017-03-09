@@ -1,0 +1,32 @@
+[
+    {
+        "number": 1,
+        "question": "If I give you 1 candy on the first day, and each other day I give you twice more candies than the previous one, how much candies will I give you on the day number 10?",
+        "answer": "512"
+    },
+    {
+        "number": 2,
+        "question": "Here's a story : there's a fox, a lion and a wolf inside a lunar crater. The fox is about to bite the lion, which is about to bite the wolf, which is about to bite the fox. It's snowing and a shrub is watching the scene. Who's enjoying the story?",
+        "answer": "me"
+    },
+    {
+        "number": 3,
+        "question": "Now, just type the answer to that question and I'll give you a very special present : what is the only thing to go beyond the limits of our universe ?",
+        "answer": "answer"
+    },
+    {
+        "number": 4,
+        "question": "Продолжи этот буквенный ряд: S, E, I, D, N, A, ? (Подсказка: вопрос из candybox2)",
+        "answer": "C"
+    },
+    {
+        "number": 5,
+        "question": "Если в полнолуние бросить желтую шляпу в красное море, какой станет шляпа?",
+        "answer": "мокрой"
+    },
+    {
+        "number": 6,
+        "question": "Сколько будет 2 + 2?",
+        "answer": "4"
+    }
+]
